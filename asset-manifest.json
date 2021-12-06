@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/socialmediamarketing/static/css/main.ddf1cca2.chunk.css",
+    "main.js": "/socialmediamarketing/static/js/main.fdb78f7d.chunk.js",
+    "main.js.map": "/socialmediamarketing/static/js/main.fdb78f7d.chunk.js.map",
+    "runtime-main.js": "/socialmediamarketing/static/js/runtime-main.15d33fb2.js",
+    "runtime-main.js.map": "/socialmediamarketing/static/js/runtime-main.15d33fb2.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/socialmediamarketing/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e978f9c1.chunk.js": "/socialmediamarketing/static/js/2.e978f9c1.chunk.js",
+    "static/js/2.e978f9c1.chunk.js.map": "/socialmediamarketing/static/js/2.e978f9c1.chunk.js.map",
+    "static/js/3.cdfff1b4.chunk.js": "/socialmediamarketing/static/js/3.cdfff1b4.chunk.js",
+    "static/js/3.cdfff1b4.chunk.js.map": "/socialmediamarketing/static/js/3.cdfff1b4.chunk.js.map",
+    "index.html": "/socialmediamarketing/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/socialmediamarketing/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.ddf1cca2.chunk.css.map": "/socialmediamarketing/static/css/main.ddf1cca2.chunk.css.map",
+    "static/js/2.e978f9c1.chunk.js.LICENSE.txt": "/socialmediamarketing/static/js/2.e978f9c1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/socialmediamarketing/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15d33fb2.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e978f9c1.chunk.js",
+    "static/css/main.ddf1cca2.chunk.css",
+    "static/js/main.fdb78f7d.chunk.js"
+  ]
+}
